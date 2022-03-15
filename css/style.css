@@ -13,3 +13,6 @@
 #avatar-logo{
     height: 250px;
 }
+.my-rounded{
+    border-radius: 18px;
+}
