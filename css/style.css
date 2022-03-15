@@ -1,0 +1,15 @@
+.debug{
+    border: 1px solid black;
+}
+.my-nav{
+    height: 100px;
+}
+.my-bg-blue{
+    background-color: #2C3E50;
+}
+.my-bg-green{
+    background-color: #1ABC9C;
+}
+#avatar-logo{
+    height: 250px;
+}
