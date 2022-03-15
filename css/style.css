@@ -7,12 +7,25 @@
 .my-bg-blue{
     background-color: #2C3E50;
 }
+.my-bg-lightblue{
+    background-color: #3A546D;
+}
 .my-bg-green{
     background-color: #1ABC9C;
+}
+.my-text-green{
+    color: #1ABC9C;
+}
+.my-icon{
+    height: 50px;
+    width: 50px;
 }
 #avatar-logo{
     height: 250px;
 }
 .my-rounded{
     border-radius: 18px;
+}
+.my-form{
+    height: 50vh;
 }
