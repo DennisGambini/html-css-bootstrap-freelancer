@@ -29,3 +29,15 @@
 .my-form{
     height: 50vh;
 }
+.my-white-hr{
+    height: 5px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 3px;
+}
+.my-black-hr{
+    height: 5px;
+    border: 1px solid #333333;
+    background-color: #333333;
+    border-radius: 3px;
+}
