@@ -1,9 +1,14 @@
+/* GENERALI */
 .debug{
     border: 1px solid black;
 }
-.my-nav{
-    height: 100px;
+#avatar-logo{ /* immagine avatar */
+    height: 250px;
 }
+#floatingTextarea{
+    height: 200px;
+}
+/* colori sfondi */
 .my-bg-blue{
     background-color: #2C3E50;
 }
@@ -13,31 +18,41 @@
 .my-bg-green{
     background-color: #1ABC9C;
 }
-.my-text-green{
-    color: #1ABC9C;
+.my-icon{ /* icone social footer */
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
 }
-.my-icon{
-    height: 50px;
-    width: 50px;
-}
-#avatar-logo{
-    height: 250px;
-}
-.my-rounded{
+.my-rounded{ /* bordi stondati portfolio */
     border-radius: 18px;
 }
-.my-form{
-    height: 50vh;
-}
+/* linee a lato della stella */
 .my-white-hr{
     height: 5px;
-    border: 1px solid white;
     background-color: white;
     border-radius: 3px;
 }
 .my-black-hr{
     height: 5px;
-    border: 1px solid #333333;
     background-color: #333333;
     border-radius: 3px;
+}
+/* bottoni */
+#section-four form div input, #section-four form div textarea{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.my-text-green{
+    color: #1ABC9C;
+}
+.my-green-text-hover:hover{
+    color: #1ABC9C;
+}
+#my-send-btn{
+    background-color: #1ABC9C;
+    border: none;
+}
+#my-send-btn:hover{
+    background-color: rgb(46, 207, 175);
 }
