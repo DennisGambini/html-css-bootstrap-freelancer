@@ -80,3 +80,7 @@
 #my-send-btn:hover{
     background-color: rgb(46, 207, 175);
 }
+
+#section-five a:hover i{
+    color: #1ABC9C;
+}
